@@ -4,7 +4,13 @@ Hi 👋 My name is Vasilije Kalem
 2nd Year CIS Major
 ------------------
 
-\### Hi there, I'm Vasilije Kalem! 👋 - 🔭 Currently studying Computer Information Systems (CIS) at Rock Valley College (RVC) - 🌱 Passionate about technology and exploring the intricacies of computer science - 💼 Working towards becoming a skilled IT professional - 🎓 Transferring to Northern Illinois University (NIU) this fall for a master's degree in CIS - 💻 Eager to contribute to the tech industry and tackle real-world challenges - 🚀 Committed to continuous learning and personal development in the field of computer information systems
+\### Hi there, I'm Vasilije Kalem! 👋 
+- 🔭 Currently studying Computer Information Systems (CIS) at Rock Valley College (RVC) 
+- 🌱 Passionate about technology and exploring the intricacies of computer science
+- 💼 Working towards becoming a skilled IT professional
+- 🎓 Transferring to Northern Illinois University (NIU) this fall for a master's degree in CIS
+- 💻 Eager to contribute to the tech industry and tackle real-world challenges
+- 🚀 Committed to continuous learning and personal development in the field of computer information systems
 
 *   🌍  I'm based in Illinois
 *   ✉️  You can contact me at [vkalem75@gmail.com](mailto:vkalem75@gmail.com)
